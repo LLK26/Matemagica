@@ -1,0 +1,50 @@
+*
+#conteudo{
+    float: inline-end;
+    text-align: center;
+    font-family:sans-serif;
+}
+
+image{
+    background:url(./img/banner.jpg); 
+}
+
+
+h1{
+    color:#ffffff;
+    position: absolute;
+    font-size:60px;
+    
+}
+
+image{
+    background:url(./img/footer.jpg);
+
+}
+#Educacao{
+    font-size: 50px;
+    position: absolute;
+    text-align: center;
+
+}
+#lateralim{
+    float: left;
+}
+#lateralt{
+    float: left;
+}
+
+h2{
+    font-weight: bold;
+}
+#texto{
+    text-align: center;
+}
+
+lateralim{
+    color: #ffffff;
+    background-color: #0b340b;
+    padding: 10px;
+    width: 150px;
+}
+
