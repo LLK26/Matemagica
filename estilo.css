@@ -1,11 +1,20 @@
 *
 #conteudo{
+<<<<<<< HEAD
     text-align: border: center;
+=======
+    float: inline-end;
+    text-align: center;
+>>>>>>> 2e18578b8d7cfb02329aa93d4266de5dbc4c7bb1
     font-family:sans-serif;
 }
 
 image{
+<<<<<<< HEAD
     background:url(./img/banner.jpg);
+=======
+    background:url(./img/banner.jpg); 
+>>>>>>> 2e18578b8d7cfb02329aa93d4266de5dbc4c7bb1
 }
 
 
@@ -26,11 +35,19 @@ image{
     text-align: center;
 
 }
+<<<<<<< HEAD
 #lateralim {
     float: left;
     background-color: #0b340b;
     padding: 10px;
     width: 150px;
+=======
+#lateralim{
+    float: left;
+}
+#lateralt{
+    float: left;
+>>>>>>> 2e18578b8d7cfb02329aa93d4266de5dbc4c7bb1
 }
 
 h2{
@@ -40,3 +57,13 @@ h2{
     text-align: center;
 }
 
+<<<<<<< HEAD
+=======
+lateralim{
+    color: #ffffff;
+    background-color: #0b340b;
+    padding: 10px;
+    width: 150px;
+}
+
+>>>>>>> 2e18578b8d7cfb02329aa93d4266de5dbc4c7bb1
