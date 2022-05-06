@@ -1,11 +1,11 @@
 *
 #conteudo{
-    text-align: center;
+    text-align: border: center;
     font-family:sans-serif;
 }
 
 image{
-    background:url(./img/banner.jpg); 
+    background:url(./img/banner.jpg);
 }
 
 
@@ -16,18 +16,21 @@ h1{
     
 }
 
+image{
+    background:url(./img/footer.jpg);
+
+}
 #Educacao{
     font-size: 50px;
     position: absolute;
     text-align: center;
-    background:url(./img/footer.jpg);
+
 }
-#lateralim{
+#lateralim {
     float: left;
-    color
-}
-#lateralt{
-    float: left;
+    background-color: #0b340b;
+    padding: 10px;
+    width: 150px;
 }
 
 h2{
@@ -35,12 +38,5 @@ h2{
 }
 #texto{
     text-align: center;
-}
-
-h3{
-    color: #ffffff;
-    background-color: #0b340b;
-    padding: 10px;
-    width: 150px;
 }
 
